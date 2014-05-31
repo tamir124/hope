@@ -17,7 +17,7 @@ public static void main(String[] args) {
 
     try {
         img = ImageIO.read(new File(IMG));
-        	//kk
+        	//hi tester
         int[][] pixelData = new int[img.getHeight() * img.getWidth()][3];
         int[] rgb;
 
